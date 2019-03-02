@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoBrowser</string>
+    <string name="rv_gallery_load_more_text">Loading</string>
+
+    <plurals name="rv_gallery_item_likes_text">
+         <item quantity="one">%1$d like</item>
+         <item quantity="other">%1$d likes</item>
+    </plurals>
+</resources>
